@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "jest": "^29.4.3"
+  },
+  "name": "coin-collector",
+  "description": "![logo](https://user-images.githubusercontent.com/44912347/202273653-1c259f67-7b01-46fc-8e4d-ccb804649e27.jpg)",
+  "version": "1.0.0",
+  "main": "coins.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Insubordinate/coin-collector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Insubordinate/coin-collector/issues"
+  },
+  "homepage": "https://github.com/Insubordinate/coin-collector#readme"
+}
